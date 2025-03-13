@@ -1,0 +1,10 @@
+# REQUIREMENTS
+Python 3.7
+OpenCV – For processing images and video streams.
+NumPy – For numerical computations.
+Pygame – For playing audio notifications.
+gTTS (Google Text-to-Speech) – For converting detected object names into speech.
+# YOLOv3 Model Files
+yolov3.weights (Pre-trained model)
+yolov3.cfg (YOLO configuration file)
+coco.names (List of object classes)
